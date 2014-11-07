@@ -18,6 +18,14 @@ A complete tutorial on how to the application works can be found at:
 
 http://manuelrodriguez.io/java-play-simple-rest-api-part-i/
 
+#Requirements
+To complete these code sample you will need to install the following tools:
+
+- Java SDK – a working SDK for Java. Current version is Java 8.
+- Play Framework – a working version of Play 2.0.
+- Jackson Library – this is a library to convert Java objects into the JSON strings. (Already in the lib directory of the project)
+- Eclipse IDE (optional) – a working version of the Eclipse IDE to aid in code writing and syntax checks.
+
 #Set up (terminal based)
 
 1. Clone this repository 
