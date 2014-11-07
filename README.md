@@ -42,7 +42,7 @@ This step shall fix the compilation errors
 4. Run form the terminal the as: ./activator run
 
 ## Cloning from terminal
-1. Clone this repositoru
+1. Clone this repository
 2. Move to the restapp directory
 3. Set up the eclipse project with the command: ./activator eclipse
 4. Import the project into Eclipse with the option Import->Existing Projects into Workspace
