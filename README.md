@@ -41,7 +41,8 @@ To complete these code sample you will need to install the following tools:
 3. Run form the terminal the as: ./activator run
 
 ## Cloning with eGit
-1. Use eGit functionality built-in into Eclipse to import the project from the URI. You should see some compilation errors.
+1. Use eGit functionality built-in into Eclipse to import the project from the URI as a General Project. 
+You might see some compilation errors, which should be fixed with step 3.
 2. Open a terminal and move to the restapp directory
 3. Set up the eclipse project with the command: ./activator eclipse
 This step shall fix the compilation errors
