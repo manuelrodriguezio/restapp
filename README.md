@@ -22,4 +22,21 @@ http://manuelrodriguez.io/java-play-simple-rest-api-part-i/
 
 1. Clone this repository 
 2. Move to the restapp directory
-3. Run the with ./ 
+3. Run from the terminal as: ./activator run
+
+#Set up (Eclipse)
+## Cloning from terminal
+1. Clone this repositoru
+2. Move to the restapp directory
+3. Set up the eclipse project with the command: ./activator eclipse
+4. Import the project into Eclipse with the option Import->Existing Projects into Workspace
+3. Run form the terminal the as: ./activator run
+
+## Cloning with eGit
+1. Use eGit functionality built-in into Eclipse to import the project from the URI. You should see some compilation errors.
+2. Open a terminal and move to the restapp directory
+3. Set up the eclipse project with the command: ./activator eclipse
+This step shall fix the compilation errors
+4. Run form the terminal the as: ./activator run
+
+
